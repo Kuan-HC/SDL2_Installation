@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/kuanhsun.chen/Desktop/SDL_Test/build",
+  "command": "C:\\Mingw64\\mingw64\\bin\\g++.exe   @CMakeFiles/SDL2_Test.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\SDL2_Test.dir\\main.cpp.obj -c C:\\Users\\kuanhsun.chen\\Desktop\\SDL_Test\\main.cpp",
+  "file": "C:/Users/kuanhsun.chen/Desktop/SDL_Test/main.cpp"
+}
+]
