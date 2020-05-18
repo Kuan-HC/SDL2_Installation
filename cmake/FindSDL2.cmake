@@ -76,6 +76,8 @@ SET(SDL2_SEARCH_PATHS
 	/opt
 	C:/Mingw64/mingw64/x86_64-w64-mingw32
 )
+#Local_Setting_Apt
+SET(ENV{SDL2DIR} "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/")
 
 FIND_PATH(SDL2_INCLUDE_DIR SDL.h
 	HINTS
