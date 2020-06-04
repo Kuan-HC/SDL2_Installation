@@ -8,3 +8,4 @@ The following step is how I install SDL2 in my windows 10 computer
   
 ## Step
  1. download [SDL](https://www.libsdl.org/download-2.0.php)
+ <img src="img/SDL2_DownLoad.png">
