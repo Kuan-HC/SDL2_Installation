@@ -1,3 +1,0 @@
-C:/Users/kuanhsun.chen/Desktop/SDL_Test/build/CMakeFiles/rebuild_cache.dir
-C:/Users/kuanhsun.chen/Desktop/SDL_Test/build/CMakeFiles/SDL2_Test.dir
-C:/Users/kuanhsun.chen/Desktop/SDL_Test/build/CMakeFiles/edit_cache.dir
