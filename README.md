@@ -1,6 +1,9 @@
 # SDL2_Installtion
 The following step is how I install SDL2 on my windows 10 computer
 
+Detailed steps please refer to this great Youtube video.
+https://www.youtube.com/watch?v=7sIBklOTImI
+
 ## Dependency
 * cmake >= 3.7
 * [MinGW](http://www.mingw.org/) or [Mingw64](http://mingw-w64.org/doku.php)
